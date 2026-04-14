@@ -10,6 +10,7 @@ This project implements a **Constraint Satisfaction Problem (CSP)** based Sudoku
 
 The solver can handle Sudoku puzzles of varying difficulty levels:
 
+
 * Easy
 * Medium
 * Hard
